@@ -1,0 +1,9 @@
+baseurl = "http://roboticbentqueryicoatbog.github.io/htye"
+languageCode = "en-us"
+title = "HydroTerra"
+canonifyurls = true
+
+[Taxonomies]
+	category = "categories"
+
+
