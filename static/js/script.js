@@ -1,7 +1,7 @@
 	jQuery(document).ready(function(){
 		jQuery('#menu-wrap').prepend('<div id="menu-trigger">Menu</div>');
 			jQuery('#menu-trigger').on('click', function(){
-				jQuery('#menu').slideToggle();
+				jQuery('#menuup').slideToggle();
 			});
 		});
 
@@ -27,7 +27,7 @@ singleItem:true
  
 });
 $(window).scroll(function(){
-    if ($(window).scrollTop() >= $(window).width()/1333*340) {
+    if ($(window).scrollTop() >= $(window).width()*80/100/1333*340) {
        $('nav').addClass('fixed-header');
         $('.main-02 ').addClass('padding');
     }

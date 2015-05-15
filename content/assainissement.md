@@ -1,84 +1,70 @@
-+++
-date = "2015-01-23T11:34:59+01:00"
 
++++
 title = "assainissement"
-
 +++
-<tbody>
+<br />
+ <br />
+   <div class="title-01">
+    <a>ETUDE ASSAINISSEMENT</a>
+  </div>
 
-<h2>Bienvenue sur notre site: <a href="http://www.toilettes-seches-a-separation.fr">www.toilettes-seches-a-separation.fr</a></h2>
+<br />
+ <br />
 
-<tr>
-<td><img style="float: left; margin: 10px;" title="Toilette sèche à séparation des urines" src="web_images/100_3749.jpg" alt="Toilette sèche à séparation des urines" width="213" height="289" /><strong>Située en Maurienne dans le département de la Savoie, notre entreprise est spécialisée en assainissement écologique (<a href="http://http://www.hydroterra.fr/index.php?p=1_6_ETUDE-PHYTOEPURATION">épuration par les plantes</a> et toilettes sèches). <br /><br /></strong>Nous concevons et fabriquons plusieurs modèles de toilettes sèches: des <a href="index.php?p=1_6_Toilettes-s-ches-liti-re">toilettes sèches à litière</a>, des <a href="index.php?p=1_18_ACCUEIL">toilettes sèches à séparation des urines "à la source"</a>, avec ou sans réserves de copeaux, des toilettes sèches en pin massif ou en pin 3 plis.<br /><br />Nous distribuons également des toilettes sèches des marques suédoises: <a href="index.php?p=1_21_Toilettes-s-ches-liti-re">Separett</a>, <a href="index.php?p=1_35_Toilettes-s-ches-s-paration">Clivus Multrum</a> et <a href="index.php?p=1_28_ACCUEIL">Wost Man Ecology</a>, les toilettes sèches de la marque finlandaise: <a href="index.php?p=1_2_POURQUOI-COMMENT">Biolan</a> et de la marque française: <a href="index.php?p=1_34_CATALOGUE">Ecodoméo</a>.<strong><br /></strong>
-<p>Nous vous proposons une large gamme de toilettes sèches afin de pouvoir vous proposer <strong>la toilette sèche</strong> la mieux adaptée à votre  situation, vos habitudes, etc.. . A chaque situation, il existe une  toilette sèche.</p>
-<p>Sur notre <a href="index.php?p=1_31_CATALOGUE">catalogue</a>,  vous trouverez tous les modèles que nous proposons, nous réalisons  également des modèles sur-mesure.</p>
-<p>Nous sommes à votre disposition pour toutes questions, nous vous répondons dans les plus brefs délais: N'hésitez pas: <a href="index.php?p=1_3_CONTACT">contactez-nous</a>.</p>
-</td>
-</tr>
-</tbody>
-<table style="background-color: #60311b; height: 280px; width: 700px;" border="1">
-<tbody>
-<tr>
-<td style="text-align: center;" colspan="6"><a href="index.php?p=1_4_Toilettes-s-ches-s-paration-des-urines"><span style="color: #00ff00;"><span style="font-family: arial,helvetica,sans-serif;"><strong><span style="font-size: 18px;">Les toilettes sèches à séparation des urines à la source <br />Fabrication artisanale et locale</span></strong></span><span style="font-family: arial,helvetica,sans-serif;"><strong>&nbsp;</strong></span></span></a><span style="font-family: arial,helvetica,sans-serif;"><strong><a href="index.php?p=1_4_Toilettes-s-ches-s-paration-des-urines"> </a><br /></strong></span></td>
-</tr>
-<tr>
-<td><a href="index.php?p=1_18_ACCUEIL"><img title="Toilette sèche à séparation des urines: SEP" src="web_images/100_3369.jpg" alt="La SEP" width="99" height="134" /></a></td>
-<td><a href="index.php?p=1_18_ACCUEIL"><span style="font-family: arial,helvetica,sans-serif; color: #000000;"><span style="color: #ffffff;"><strong>La SEP</strong></span><br /><br /><br /><span style="color: #ffcc99;">Toilette sèche cube en pin à séparateur d'urine</span></span><br /><br /><span style="font-family: arial,helvetica,sans-serif; color: #ffffff;"><em><strong>A partir de 485 € </strong></em></span></a><br /></td>
-<td><a href="index.php?p=1_37_CATALOGUE"><img title="Toilette sèche à séparation des urines: Big SEP" src="web_images/100_3736.jpg" alt="" width="94" height="127" /></a></td>
-<td><a href="index.php?p=1_37_CATALOGUE"><span style="font-family: arial,helvetica,sans-serif; color: #000000;"><span style="color: #ffffff;"><strong>La Big SEP</strong></span><br /><br /><br /><span style="color: #ffcc99;">Toilette sèche à réserve de copeaux et séparation des urines</span></span><br /><br /><span style="color: #ffffff; font-family: arial,helvetica,sans-serif;"><strong><em>A partir de 655 € </em></strong></span></a><br /></td>
-<td><a href="index.php?p=1_1_ACCUEIL"><img title="Toilette sèche à séparation des urines: BS-res" src="web_images/100_3669.jpg" alt="" width="90" height="118" /></a></td>
-<td><span style="font-family: arial,helvetica,sans-serif; color: #ffffff;"><strong>La Big SEP à réservoir</strong> (BS-RES)</span><br /><br /><span style="color: #ffcc99;"><span style="font-family: arial,helvetica,sans-serif;">Toilette sèche à réserve de copeaux et réservoir d'urine</span> intégré</span><br /><br /><a href="index.php?p=1_3_CONTACT"><span style="color: #ffffff; font-family: arial,helvetica,sans-serif;"><em><strong>Tarif: nous contacter</strong></em></span></a><br /></td>
-</tr>
-</tbody>
-</table>
-<table class="modulesubframe" style="background-color: #60311b; height: 380px; width: 700px;" border="1">
-<tbody>
-<tr>
-<td style="text-align: center;" colspan="4"><span style="font-family: arial,helvetica,sans-serif;"><a href="index.php?p=1_4_Toilettes-s-ches-s-paration-des-urines"><span style="color: #00ff00;"><span style="font-size: 18px;"><strong>Les toilettes sèches à séparation des urines à la source<br />Modèles manufacturés</strong></span><strong>&nbsp;</strong></span></a><span style="color: #ffffff;"><strong> <br /></strong></span></span></td>
-</tr>
-<tr>
-<td><span style="font-family: arial,helvetica,sans-serif;"><a href="index.php?p=1_21_Catalogue"><img style="display: block; margin-left: auto; margin-right: auto;" title="Toilette sèche à séparation des urines: Separett Villa" src="web_images/villa9010.jpg" alt="" width="94" height="94" /></a>&nbsp;</span></td>
-<td><a href="index.php?p=1_21_Toilettes-s-ches-liti-re"><span style="color: #ffffff; font-family: arial,helvetica,sans-serif;"><strong>Separett Villa</strong><strong>&nbsp;</strong></span><br /><br /><span style="color: #ffcc99; font-family: arial,helvetica,sans-serif;">Toilette sèche suédoise à séparation des urines </span><br /><br /><span style="color: #ffffff; font-family: arial,helvetica,sans-serif;"><em><strong>A partir de 769 € </strong></em></span></a><br /></td>
-<td><span style="font-family: arial,helvetica,sans-serif;"><a href="index.php?p=1_25_toilettes-s-ches-manufactur-es"><img style="display: block; margin-left: auto; margin-right: auto;" title="Toilette sèche à séparation des urines: Separett WE" src="web_images/7393553710506-30016-g_torp-isak_whit.jpg" alt="" width="90" height="90" /></a>&nbsp;</span></td>
-<td><a href="index.php?p=1_32_Toilettes-s-ches-composteur"><span style="color: #ffffff; font-family: arial,helvetica,sans-serif;"><strong>Separett Week End</strong></span><br /><br /><span style="color: #ffcc99; font-family: arial,helvetica,sans-serif;">Toilette sèche à séparation des urines premier prix </span><br /><br /><span style="color: #ffffff; font-family: arial,helvetica,sans-serif;"><em><strong>499 €</strong></em></span></a><br /></td>
-</tr>
-<tr>
-<td><span style="font-family: arial,helvetica,sans-serif;">&nbsp;<a href="index.php?p=1_2_toilettes-s-ches-s-paration"><img style="border: 0px none; display: block; margin-left: auto; margin-right: auto;" title="Toilette sèche à séparation des urines: Naturum" src="web_images/9279457.jpg" alt="" width="105" height="100" /></a></span></td>
-<td><a href="index.php?p=1_1_ACCUEIL"><span style="color: #ffffff; font-family: arial,helvetica,sans-serif;">&nbsp;</span></a><a href="index.php?p=1_2_POURQUOI-COMMENT"><span style="color: #ffffff; font-family: arial,helvetica,sans-serif;"><strong>Biolan Naturum</strong></span><br /><br /><span style="color: #ffcc99; font-family: arial,helvetica,sans-serif;">Toilette sèche à séparation des urines et précompostage</span><br /><br /><span style="color: #ffffff; font-family: arial,helvetica,sans-serif;"><strong><em>1499 €</em></strong></span></a><br /></td>
-<td><span style="font-family: arial,helvetica,sans-serif;">&nbsp;<a href="index.php?p=1_24_toilettes-s-ches-liti-re"><img style="display: block; margin-left: auto; margin-right: auto;" title="Toilette sèche à séparation des urines: Biolan" src="web_images/8792325_orig.jpg" alt="" width="70" height="94" /></a></span></td>
-<td><a href="index.php?p=1_33_BON-DE-COMMANDE"><span style="color: #ffffff; font-family: arial,helvetica,sans-serif;"><strong>&nbsp;Biolan toilette à séparation</strong></span><br /><br /><span style="color: #ffcc99; font-family: arial,helvetica,sans-serif;">Toilette sèche à séparation des urines et réservoir à litière</span><br /><br /><span style="color: #ffffff; font-family: arial,helvetica,sans-serif;"><em><strong>699 €</strong></em></span></a><br /></td>
-</tr>
-</tbody>
-</table>
-<br /> 
-<table class="topbar1bg" style="background-color: #60311b; height: 280px; width: 700px;" border="1">
-<tbody>
-<tr>
-<td style="text-align: center;" colspan="6"><a href="index.php?p=1_6_Toilettes-s-ches-liti-re"><span style="color: #00ff00; font-family: arial,helvetica,sans-serif;"><strong><span style="font-size: 18px;">Les toilettes sèches à litière - fabrication artisanale et locale</span></strong></span></a></td>
-</tr>
-<tr>
-<td><a href="index.php?p=1_15_ACCUEIL"><span style="font-family: arial,helvetica,sans-serif;"><img title="toilette sèche à litière (TLB): la Box" src="web_images/100_3626.jpg" alt="" width="94" height="126" /></span></a></td>
-<td><a href="index.php?p=1_39_ACCUEIL"><strong><span style="font-family: arial,helvetica,sans-serif; color: #ffffff;">La Box</span></strong><br /><br /><span style="font-family: arial,helvetica,sans-serif; color: #ffcc99;">Toilette sèche à litière, en pin 3 plis</span><br /><br /><strong><em><span style="font-family: arial,helvetica,sans-serif; color: #ffffff;">A partir de 305 €</span></em></strong></a></td>
-<td><a href="index.php?p=1_16_CATALOGUE"><span style="font-family: arial,helvetica,sans-serif;"><img title="toilette sèche à litière (TLB): la Big Box" src="web_images/100_3749.jpg" alt="" width="90" height="118" /></span></a></td>
-<td><a href="index.php?p=1_40_CATALOGUE"><strong><span style="font-family: arial,helvetica,sans-serif; color: #ffffff;">La Big Box</span></strong><br /><br /><span style="font-family: arial,helvetica,sans-serif; color: #ffcc99;">Toilette sèche à litière à réserve de copeaux</span><br /><br /><strong><em><span style="font-family: arial,helvetica,sans-serif; color: #ffffff;">A partir de 505 €</span></em></strong></a></td>
-<td><span style="font-family: arial,helvetica,sans-serif;"><img title="toilette sèche à litière (TLB): la Big Hexa" src="web_images/100_3560.jpg" alt="" width="88" height="117" /></span></td>
-<td><span style="font-family: arial,helvetica,sans-serif; color: #ffffff;">La Big Hexa</span><br /><br /><span style="font-family: arial,helvetica,sans-serif; color: #ffcc99;">Toilette sèche hexagonale à réserve de copeaux</span><br /><br /><span style="color: #ffffff; font-family: arial,helvetica,sans-serif;"><em><strong><a href="index.php?p=1_3_CONTACT">Tarif: nous contacter</a></strong></em></span></td>
-</tr>
-</tbody>
-</table>
-<br /> 
-<table class="modulesubframe" style="background-color: #60311b; height: 280px; width: 700px;" border="1">
-<tbody>
-<tr>
-<td style="text-align: center;" colspan="6"><span style="font-family: arial,helvetica,sans-serif;"><a href="index.php?p=1_30_Toilettes-s-ches-composteur"><span style="color: #00ff00;"><span style="font-size: 18px;"><strong>Les toilettes sèches à gros volume de stockage/compostage</strong></span><em><strong>&nbsp;</strong></em></span></a><span style="color: #ffffff;"><strong><em> </em></strong></span><span style="color: #ffffff;"><em><strong><br /></strong></em></span></span></td>
-</tr>
-<tr>
-<td><a href="index.php?p=1_34_CATALOGUE"><span style="font-family: arial,helvetica,sans-serif;"><img style="border: 1px solid black;" title="Toilette sèche ECODOMEO" src="web_images/zirconepti.jpg" alt="" width="93" height="81" /></span></a></td>
-<td><a href="index.php?p=1_34_CATALOGUE"><span style="color: #ffffff; font-family: arial,helvetica,sans-serif;"><em><strong>Toilette sèche Ecodoméo</strong></em></span><br /><br /><span style="color: #ffcc99; font-family: arial,helvetica,sans-serif;">Toilette sèche à séparation, tapis roulant</span><br /><br /><span style="color: #ffffff; font-family: arial,helvetica,sans-serif;"><em><strong>A partir de 2260 €</strong></em></span></a></td>
-<td><span style="font-family: arial,helvetica,sans-serif;"><a href="index.php?p=1_35_Toilettes-s-ches-s-paration-des-urines"><img style="border: 1px solid black;" title="Toilette sèche CLIVUS MULTRUM" src="web_images/cuvette_cl400_open.jpg" alt="" width="86" height="114" /></a></span></td>
-<td><a href="index.php?p=1_35_Toilettes-s-ches-s-paration-des-urines"><span style="color: #ffffff; font-family: arial,helvetica,sans-serif;"><strong><em>Toilette sèche Clivus Multrum</em></strong></span><br /><br /><span style="color: #ffcc99; font-family: arial,helvetica,sans-serif;">Toilette sèche à composteur</span><br /><br /><span style="color: #ffffff; font-family: arial,helvetica,sans-serif;"><em><strong>A partir de 3080 €</strong></em></span></a></td>
-<td><span style="font-family: arial,helvetica,sans-serif;"><a href="index.php?p=1_28_toilettes-s-ches-liti-re"><img style="border: 1px solid black;" title="Toilette sèche Ecodry de Wost Man Ecology" src="web_images/100_3389.jpg" alt="" width="83" height="110" /></a></span></td>
-<td><a href="index.php?p=1_28_ACCUEIL"><span style="color: #ffffff; font-family: arial,helvetica,sans-serif;"><em><strong>Toilette sèche Wost Man Ecology</strong></em></span><br /><br /><span style="color: #ffcc99; font-family: arial,helvetica,sans-serif;">Toilette sèche à séparation des urines à la source</span><br /><br /><span style="color: #ffffff; font-family: arial,helvetica,sans-serif;"><em><strong>A partir de 889 €</strong></em></span></a></td>
-</tr>
-</tbody>
-</table>
+
+<div class="part700 ">
+<h2>Etude de faisabilité d'un Assainissement Non Collectif (ANC)</h2>
+<img class="bordure" style="float: left; margin-right: 10px; margin-left: 10px;" src="/img/tracto.jpg" alt="" width="280" height="210" /><strong>Vous n'êtes pas raccordés au "tout à l'égout" ? Vous construisez ou rénovez une habitation, ou vous devez réhabiliter votre système d'assainissement ?</strong>
+<p>Hydroterra réalise votre étude de sol et d'environnement indispensable pour dimensionner le système d'assainissement qui sera adapté à votre terrain et pour en assurer sa viabilité et sa pérennité.</p>
+<br />
+ <br />
+ </div>
+ <div class="part900 " >
+ 
+<div class="scol part300 ">
+<h2 style="text-align: center;">Nos garanties</h2>
+<p style="text-align: center;">Hydroterra est adhérent de la Charte pour la promotion d'un "assainissement non collectif de qualité" en Savoie.</p>
+<p style="text-align: center;"><img class="bordure" src="/img/logo_cg73.jpg" alt="" width="143" height="66" /></p>
+<br />
+<p style="text-align: center;">Hydroterra adhère au <strong>S</strong>yndicat <strong>NA</strong>tional des <strong>B</strong>ureaux d'études en <strong>A</strong>ssainissement, le SYNABA.</p>
+<p><img  class="bordure" style="display: block; margin-left: auto; margin-right: auto;" src="/img/logo_adh_rent_du_synaba_2013.jpg" alt="" width="151" height="95" /></p>
+<p style="text-align: center;">Nous disposons des garanties nécessaires pour réaliser ces études: assurance responsabilité civile décennale et garantie atteinte à l'environnement.</p>
+
+</div>
+
+<div class="scol part300 ">
+<br />
+	<p style="text-align: center;"><img class="bordure"  title="Fosse toutes eaux" src="/img/100_0591.jpg" alt="" width="183" height="137" /><img  class="bordure" style="margin: 10px;" title="Test de perméabilité - méthode Porchet" src="/img/100_2514.jpg" alt="" width="183" height="137" /><img  class="bordure" title="Sondage du sol au tractopelle" src="/img/100_0583.jpg" alt="" width="181" height="238" /></p>
+
+</div>
+
+<div class="scol part300 ">
+<h2 style="text-align: center;">Notre intervention</h2>
+<p><img  class="bordure" style="margin: 10px auto; display: block;" title="Mesures topographiques" src="/img/niveau_laser.jpg" alt="" width="155" height="206" /></p>
+<p style="text-align: center;"></p>
+<p style="text-align: center;">Notre intervention comprend : l'analyse des contraintes environnementales, l'étude pédologique, géologique à partir des sondages du sol, la réalisation de tests de perméabilité, des mesures topographiques, le dimensionnement et le plan d'implantation des ouvrages, l'élaboration du dossier pour le Service Public d'Assainissement Non Collectif (SPANC) ou la commune.</p></div>
+<br />
+
+
+</div>
+<br />
+<div class="part700 ">
+<h2 style="font-size: 18px;text-align: center;"><a href="/Contact">DEVIS GRATUIT</a></h2>
+
+
+<p style="text-align: center;"><strong><br /></strong></p>
+<p style="text-align: center;"><strong>Plus d'informations ? Cliquez sur les liens ci-dessous:</strong></p>
+<p style="text-align: center;"><strong><a href="http://www.hydroterra.fr/index.php@p=1_16_Accueil.html">L'assainissement non collectif</a> <br /><br /><a href="/doc/12032-anc-guide-usagers-complet-02-10-12-light.pdf">Guide d'information sur les installations pour les usagers</a><br /></strong></p>
+<p style="text-align: center;"><strong><a href="http://www.hydroterra.fr/index.php@p=1_18_Phyto-puration.html">Notre prestation&nbsp;étude assainissement</a><br /></strong></p>
+<p style="text-align: center;"><strong><a href="http://www.hydroterra.fr/index.php@p=1_17_Etude-Assainissement.html">Réglementation en vigueur</a><br /></strong></p></p>
+</div>
+
+
+
+
+
+
+
+
+
+

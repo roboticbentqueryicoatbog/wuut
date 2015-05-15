@@ -4,74 +4,40 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Hydroterra</title>
-<link href="/css/style.css" rel="stylesheet" media="all" type="text/css"> 
+  {{ partial "header.includes.html" . }}
 </head>
 
 <body>
+<div class="whole">
+
 <header>
+{{ partial "bannerimage.html" . }}
 
-  <div class="banner">
-    <img class="banner-img" src="/img/banner1333.jpg" >
-  </div>
- 
- <nav class="header-wrapper">
-        <div class="page-header" role="banner">
-           
-
-            <div class="page-header-right">
-                <div class="main-nav" role="navigation">
-                 <a class="logo" href="/"><img src="/img/newlogo.png" alt="Hydroterra Logo" /></a>
-                    <ul id="menu">
-                        <li><a href="/">Accueil</a></li>
-                        <li><a href="/assainissement">Etude Assainissement</a>
-                          <ul>
-                            <li><a href="#">Assainissement Non Collectif</a></li>
-                            <li><a href="#">Nos prestation</a></li>
-                            <li><a href="#">Réglementation en vigueur</a></li>
-                          </ul>
-                        </li>
-                        <li><a href="/phytoepuration">Etude Phytoépuration</a>
-                          <ul>
-                            <li><a href="#">Fonctionnement</a></li>
-                            <li><a href="#">Réglementation</a></li>
-                          </ul>
-                        </li>
-                        <li><a href="/toilettes">Toilettes sèches</a>
-                          <ul>
-                            <li><a href="#">Principe et fonctionnement</a></li>
-                            <li><a href="#">Avec Séparation des Urines</a></li>
-                            <li><a href="#">A Litiere</a></li>
-                          </ul>
-                        </li>  
-                        <li><a href="/catalogue">Catalogue toilettes sèches</a></li>
-                        <li><a href="/contact">Contact/Devis</a></li>
-                      <li><a href="/liens">Liens </a></li>
-                    </ul>
-                </div>
-
-            </div>
-        </div>
-    </nav>
- 
+{{ partial "navbar.html" . }}
 </header>
+<br />
  <br />
- <div class="main-02">
+ <div class="main-01">
 <br />
   <div class="title-01">
     <a>NOTRE ENVIRONNEMENT</a>
   </div>
 <br />
 
-  <div class="scol scol-30 left-text"><img  title="Photo AP.SANDFORD" src="img/ronalp_num_10032a.jpg" alt="" /></div>
+ <div class="scol scol-30 left-text"><img  title="Photo AP.SANDFORD" src="img/ronalp_num_10032a.jpg" alt="" /></div>
   
   <div class="scol scol-40 center-text">
   <strong>Hydroterra est basé à Modane, au coeur de la vallée de la Maurienne en Savoie.</strong> 
+<br />
+<br />
 
     Etude de filière en Assainissement Non Collectif dans le cadre de certificat d'urbanisme (CU), permis de construire (PC), réhabilitation d'un assainissement, rénovation d'un chalet, etc...                                               
 
     Phytoépuration pour les eaux ménagères                                               
 
-  Conseil, formation et vente de toilettes sèches                                               
+  Conseil, formation et vente de toilettes sèches.                                           
+<br />
+<br />
 
   <strong>Hydroterra est adhérent de la Charte du département de la Savoie pour la promotion d'un "assainissement non collectif de qualité".</strong>
   </div>
@@ -79,55 +45,32 @@
   <div class="scol scol-30 right-text"><img title="Géoportail" src="img/map-savoie.png"  /></div> 
 </div>
 
-<div class="main-01">
+<div class="main-02">
   <div class="title-01">
     <a>NOTRE SAVOIR-FAIRE</a>
   </div>
   <br />
   <br />
 
-  <div class="scol scol-20 "></div>
-  <div class="scol scol-10 "><div class="legend-top  assaini"><img src="/img/100_2716.jpg" alt="" ><a href=><span>Etude assainissement</span></a> </div></div>
+  <!-- <div class="scol scol-20 "></div>
+  <div class="scol scol-10 "><div id="s160" class="legend-top  assaini" ><img src="/img/100_2716.jpg" alt="" ><a href=><span>Etude assainissement</span></a> </div></div>
   <div class="scol scol-15 "></div>
-  <div class="scol scol-10 "><div class="legend-top toilette"><img src="/img/100_3750.jpg" alt=""  ><a href=><span>Toilettes sèches</span></a> </div></div>
+  <div class="scol scol-10 "><div id="s160" class="legend-top toilette"><img src="/img/100_3750.jpg" alt=""  ><a href=><span>Toilettes sèches</span></a> </div></div>
   <div class="scol scol-15 "></div>
-  <div class="scol scol-10 "><div class="legend-top  phyto"><img src="/img/phyto.jpg" alt="" ><a href=><span>Phytoépuration</span></a> </div></div>
-  <div class="scol scol-20 "></div>
-
+  <div class="scol scol-10 "><div id="s160" class="legend-top  phyto"><img src="/img/phyto.jpg" alt="" ><a href=><span>Phytoépuration</span></a> </div></div>
+  <div class="scol scol-20 "></div> -->
+  <div class="scol scol-15 "></div>
+  <div class="scol scol-20 "><div id="sw160" class="legend-top  assaini" ><img src="/img/100_2716.jpg" alt="" ><a href=><span>Etude assainissement</span></a> </div></div>
+  <div class="scol scol-05 "></div>
+  <div class="scol scol-20 "><div id="sw160" class="legend-top toilette"><img src="/img/100_3750.jpg" alt=""  ><a href=><span>Toilettes sèches</span></a> </div></div>
+  <div class="scol scol-05 "></div>
+  <div class="scol scol-20 "><div id="sw160" class="legend-top  phyto"><img src="/img/phyto.jpg" alt="" ><a href=><span>Phytoépuration</span></a> </div></div>
+  <div class="scol scol-15 "></div>
+ 
 </div>
+<br />
 
-<div class="foot-page"><a>© 2015 Hydroterra</a>
+{{ partial "footbanner.html" . }}
 </div>
-<div class="contact-sticker"> <a  onclick ="div_show()">Contact</a></div>
-<div id="form">
-<button id="close"  onclick ="div_hide()">&#10006;</button>
-<!-- Do not change the code! -->
-<a id="foxyform_embed_link_656990" href="http://www.foxyform.com/">foxyform</a>
-<script type="text/javascript">
-(function(d, t){
-   var g = d.createElement(t),
-       s = d.getElementsByTagName(t)[0];
-   g.src = "http://www.foxyform.com/js.php?id=656990&sec_hash=0c7d925c160&width=350px";
-   s.parentNode.insertBefore(g, s);
-}(document, "script"));
-</script>
-<!-- Do not change the code! -->
-</div>
-
-<!-- Do not change the code! -->
-<!-- <a id="foxyform_embed_link_656990" href="http://www.foxyform.com/">foxyform</a>
-<script type="text/javascript"> 
-(function(d, t){
-   var g = d.createElement(t),
-       s = d.getElementsByTagName(t)[0];
-   g.src = "http://www.foxyform.com/js.php?id=656990&sec_hash=0c7d925c160&width=350px";
-   s.parentNode.insertBefore(g, s);
-}(document, "script"));
- </script>-->
-<!-- Do not change the code! -->
-  
-<script src="/js/jquery-2.1.3.min.js"></script>
-<script src="/js/script.js"></script>
-<script src="/js/owl.carousel.js"></script>
-</body>
-</html>
+{{ partial "contactbutton.html" . }}
+{{ partial "footer.html" . }}
