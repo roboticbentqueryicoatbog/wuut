@@ -3,7 +3,7 @@
   <channel>
       <title>Contours on HydroTerra </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://roboticbentqueryicoatbog.github.io/wuut/contour/index.xml/</link>
+    <link>http://localhost:1313/wuut/contour/index.xml/</link>
     <language>en-us</language>
     
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>first</title>
-      <link>http://roboticbentqueryicoatbog.github.io/wuut/contour/presentation/</link>
+      <link>http://localhost:1313/wuut/contour/presentation/</link>
       <pubDate>Fri, 23 Jan 2015 11:34:59 CET</pubDate>
       
-      <guid>http://roboticbentqueryicoatbog.github.io/wuut/contour/presentation/</guid>
+      <guid>http://localhost:1313/wuut/contour/presentation/</guid>
       <description>
 
 &lt;p&gt;The &lt;strong&gt;front matter&lt;/strong&gt; is one of the features that gives Hugo its strength. It enables
