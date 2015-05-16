@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Phytoepuration---Copies on HydroTerra </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://localhost:1313/wuut/phytoepuration---copie/index.xml/</link>
+    <language>en-us</language>
+    
+    
+    <updated>Tue, 01 Jan 2008 00:00:00 UTC</updated>
+    
+    <item>
+      <title>Fonctionnement</title>
+      <link>http://localhost:1313/wuut/phytoepuration%20-%20Copie/fonctionnement/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/wuut/phytoepuration%20-%20Copie/fonctionnement/</guid>
+      <description>&lt;p&gt;&lt;br /&gt;
+ &lt;br /&gt;
+   &lt;div class=&#34;title-01 uppercase&#34;&gt;
+    &lt;a&gt;Fonctionnement&lt;/a&gt;
+  &lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Réglementation</title>
+      <link>http://localhost:1313/wuut/phytoepuration%20-%20Copie/reglementation/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/wuut/phytoepuration%20-%20Copie/reglementation/</guid>
+      <description>&lt;p&gt;&lt;br /&gt;
+ &lt;br /&gt;
+   &lt;div class=&#34;title-01 uppercase&#34;&gt;
+    &lt;a&gt;Réglementation&lt;/a&gt;
+  &lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
