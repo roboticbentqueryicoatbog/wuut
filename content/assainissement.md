@@ -19,7 +19,7 @@ title = "assainissement"
 <br />
  <br />
  </div>
- <div class="part900 " >
+<div class="part900">
  
 <div class="scol part300 ">
 <h2 style="text-align: center;">Nos garanties</h2>

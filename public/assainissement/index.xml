@@ -3,7 +3,7 @@
   <channel>
       <title>Assainissements on HydroTerra </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://roboticbentqueryicoatbog.github.io/wuut/assainissement/index.xml/</link>
+    <link>http://localhost:1313/wuut/assainissement/index.xml/</link>
     <language>en-us</language>
     
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>Assainissement Non Collectif</title>
-      <link>http://roboticbentqueryicoatbog.github.io/wuut/assainissement/anc/</link>
+      <link>http://localhost:1313/wuut/assainissement/anc/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
       
-      <guid>http://roboticbentqueryicoatbog.github.io/wuut/assainissement/anc/</guid>
+      <guid>http://localhost:1313/wuut/assainissement/anc/</guid>
       <description>&lt;p&gt;&lt;br /&gt;
  &lt;br /&gt;
    &lt;div class=&#34;title-01 uppercase&#34;&gt;
@@ -58,10 +58,10 @@
     
     <item>
       <title>Notre Prestation</title>
-      <link>http://roboticbentqueryicoatbog.github.io/wuut/assainissement/prestation/</link>
+      <link>http://localhost:1313/wuut/assainissement/prestation/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
       
-      <guid>http://roboticbentqueryicoatbog.github.io/wuut/assainissement/prestation/</guid>
+      <guid>http://localhost:1313/wuut/assainissement/prestation/</guid>
       <description>&lt;p&gt;&lt;br /&gt;
  &lt;br /&gt;
    &lt;div class=&#34;title-01 uppercase&#34;&gt;
@@ -103,10 +103,10 @@
     
     <item>
       <title>Réglementation en vigueur</title>
-      <link>http://roboticbentqueryicoatbog.github.io/wuut/assainissement/reglementation/</link>
+      <link>http://localhost:1313/wuut/assainissement/reglementation/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
       
-      <guid>http://roboticbentqueryicoatbog.github.io/wuut/assainissement/reglementation/</guid>
+      <guid>http://localhost:1313/wuut/assainissement/reglementation/</guid>
       <description>&lt;p&gt;&lt;br /&gt;
  &lt;br /&gt;
    &lt;div class=&#34;title-01 uppercase&#34;&gt;

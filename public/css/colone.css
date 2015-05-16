@@ -49,7 +49,10 @@
 
 }
   .part100{
-    width:100px; float:center;
+    width:100px; 
+  }
+  .part150{
+    width:150px; 
   }
   .part200{
     width:200px;
@@ -60,3 +63,10 @@
   .part600{
     width:600px;
   }
+.part900-noneh{
+  overflow:auto;
+  max-width:900px;
+  display: block;
+  margin: 0 auto ;
+
+}
