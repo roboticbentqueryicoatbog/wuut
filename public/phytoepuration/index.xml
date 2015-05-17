@@ -3,18 +3,40 @@
   <channel>
       <title>Phytoepurations on HydroTerra </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://localhost:1313/wuut/phytoepuration/index.xml/</link>
+    <link>http://roboticbentqueryicoatbog.github.io/wuut/phytoepuration/index.xml/</link>
     <language>en-us</language>
     
     
     <updated>Tue, 01 Jan 2008 00:00:00 UTC</updated>
     
     <item>
-      <title>Fonctionnement</title>
-      <link>http://localhost:1313/wuut/phytoepuration/fonctionnement/</link>
+      <title>Réglementation</title>
+      <link>http://roboticbentqueryicoatbog.github.io/wuut/phytoepuration/reglementation/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
       
-      <guid>http://localhost:1313/wuut/phytoepuration/fonctionnement/</guid>
+      <guid>http://roboticbentqueryicoatbog.github.io/wuut/phytoepuration/reglementation/</guid>
+      <description>&lt;p&gt;&lt;br /&gt;
+ &lt;br /&gt;
+   &lt;div class=&#34;title-01 uppercase&#34;&gt;
+    &lt;a&gt;Réglementation&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;br /&gt;
+&lt;div class=&#34;part900&#34; &gt;
+Les filières d&amp;rsquo;assainissement par filtres plantés (phytoépuration) ne font pas partis des dispositifs mentionnés dans l&amp;rsquo;&lt;a href=&#34;web_documents/arrete_prescriptions_techniques_anc_7_septembre_2009_cle781f53.pdf&#34;&gt;arrêté du 7 septembre 2009&lt;/a&gt; modifié par &lt;a href=&#34;web_documents/joe_20120425_0003.pdf&#34;&gt;arrêté du 7 mars 2012&lt;/a&gt;. Ces installations sont soumises à évaluation de leurs performances épuratoires sur plate-forme d&amp;rsquo;essai afin d&amp;rsquo;obtenir leur agrément. Actuellement certains de ces dispositifs de filtres plantés ont reçu un agrément, il s&amp;rsquo;agit des filières suivantes:&lt;br /&gt;&lt;br /&gt;
+&lt;ul&gt;
+&lt;li&gt;Jardin d&amp;rsquo;assainissement FV + FH (5EH): AQUATIRIS: Avis relatif à l&amp;rsquo;&lt;a href=&#34;web_documents/joe_20111220_0153.pdf&#34;&gt;agrément n°2011-022&lt;/a&gt; et guide d&amp;rsquo;utilisation (format pdf - 15,6 Mo - 02/03/2012)&lt;/li&gt;
+&lt;li&gt;gamme AUTOEPURE modèles 3000 (5EH), 4000 (8EH), 5000 (10EH), 7000 (15EH), 9000 (20EH), EPURNATURE: Avis relatif aux &lt;a href=&#34;web_documents/joe_20120704_0168.pdf&#34;&gt;agréments n°2011-004-2011-004bis&lt;/a&gt; et 2012-013 et guide d&amp;rsquo;utilisation (format pdf - 2,5 Mo - 04/07/2012)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br /&gt;Les autres dispositifs d&amp;rsquo;assainissement par filtres plantés existant, dont ceux traitant uniquement les eaux ménagères, ne sont pas à l&amp;rsquo;heure actuelle agréés. Ces filières peuvent être mises en place à titre expérimental et sont alors soumises à la signature d&amp;rsquo;une convention entre le propriétaire, le SPANC et la commune. Cette convention a une durée de 5 ans renouvelable. &lt;a href=&#34;index.php@p=1_3_Contact.html&#34;&gt;[nous contacter pour plus d&amp;rsquo;informations]&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;&lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fonctionnement</title>
+      <link>http://roboticbentqueryicoatbog.github.io/wuut/phytoepuration/fonctionnement/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
+      
+      <guid>http://roboticbentqueryicoatbog.github.io/wuut/phytoepuration/fonctionnement/</guid>
       <description>&lt;p&gt;&lt;br /&gt;
  &lt;br /&gt;
    &lt;div class=&#34;title-01 uppercase&#34;&gt;
@@ -49,28 +71,6 @@
 &lt;p&gt;&lt;span style=&#34;text-decoration: underline;&#34;&gt;Métabolisme des plantes et traitement&lt;/span&gt;: le métabolisme des plantes (assimilation des nutriments) influence également le traitement mais reste relativement faible (exemple: assimilation de 5% de l&amp;rsquo;azote dans les filtres verticaux).&lt;/p&gt;
 &lt;p&gt;&lt;span style=&#34;text-decoration: underline;&#34;&gt;Protection de la surface du filtre&lt;/span&gt;: La couverture foliaire préserve la surface des filtres de la dessication en été. Elle procure également un ombrage permettant aux bactéries de se développer, contribuant à la minéralisation de la matière organique. En période estivale, l&amp;rsquo;évapotranspiration conduit également à une forte diminution du volume sortant. En hiver, la couverture des roseaux permet de limiter l&amp;rsquo;impact des faibles températures (gel).&lt;/p&gt;
 &lt;/div&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Réglementation</title>
-      <link>http://localhost:1313/wuut/phytoepuration/reglementation/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
-      
-      <guid>http://localhost:1313/wuut/phytoepuration/reglementation/</guid>
-      <description>&lt;p&gt;&lt;br /&gt;
- &lt;br /&gt;
-   &lt;div class=&#34;title-01 uppercase&#34;&gt;
-    &lt;a&gt;Réglementation&lt;/a&gt;
-  &lt;/div&gt;
-  &lt;br /&gt;
-&lt;div class=&#34;part900&#34; &gt;
-Les filières d&amp;rsquo;assainissement par filtres plantés (phytoépuration) ne font pas partis des dispositifs mentionnés dans l&amp;rsquo;&lt;a href=&#34;web_documents/arrete_prescriptions_techniques_anc_7_septembre_2009_cle781f53.pdf&#34;&gt;arrêté du 7 septembre 2009&lt;/a&gt; modifié par &lt;a href=&#34;web_documents/joe_20120425_0003.pdf&#34;&gt;arrêté du 7 mars 2012&lt;/a&gt;. Ces installations sont soumises à évaluation de leurs performances épuratoires sur plate-forme d&amp;rsquo;essai afin d&amp;rsquo;obtenir leur agrément. Actuellement certains de ces dispositifs de filtres plantés ont reçu un agrément, il s&amp;rsquo;agit des filières suivantes:&lt;br /&gt;&lt;br /&gt;
-&lt;ul&gt;
-&lt;li&gt;Jardin d&amp;rsquo;assainissement FV + FH (5EH): AQUATIRIS: Avis relatif à l&amp;rsquo;&lt;a href=&#34;web_documents/joe_20111220_0153.pdf&#34;&gt;agrément n°2011-022&lt;/a&gt; et guide d&amp;rsquo;utilisation (format pdf - 15,6 Mo - 02/03/2012)&lt;/li&gt;
-&lt;li&gt;gamme AUTOEPURE modèles 3000 (5EH), 4000 (8EH), 5000 (10EH), 7000 (15EH), 9000 (20EH), EPURNATURE: Avis relatif aux &lt;a href=&#34;web_documents/joe_20120704_0168.pdf&#34;&gt;agréments n°2011-004-2011-004bis&lt;/a&gt; et 2012-013 et guide d&amp;rsquo;utilisation (format pdf - 2,5 Mo - 04/07/2012)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;br /&gt;Les autres dispositifs d&amp;rsquo;assainissement par filtres plantés existant, dont ceux traitant uniquement les eaux ménagères, ne sont pas à l&amp;rsquo;heure actuelle agréés. Ces filières peuvent être mises en place à titre expérimental et sont alors soumises à la signature d&amp;rsquo;une convention entre le propriétaire, le SPANC et la commune. Cette convention a une durée de 5 ans renouvelable. &lt;a href=&#34;index.php@p=1_3_Contact.html&#34;&gt;[nous contacter pour plus d&amp;rsquo;informations]&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;&lt;/div&gt;&lt;/p&gt;
 </description>
     </item>
     
